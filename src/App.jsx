@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <h1 className='text-red-600'>Hello</h1>
-      <Compo />
+      <Compo name="John Doe" email="johndoe@gmail.com" age="22"/>
     </div>
   )
 }
